@@ -1,0 +1,53 @@
+{
+	"MAIN_LANG": "fr",
+	"MAIN_NAME": "Prénom",
+	"MAIN_SURNAME": "Nom de famille",
+	"MAIN_OBJECT_NAME": "Nom",
+	"MAIN_IDENTIFIANT": "identifiant",
+	"MAIN_PASSWORD": "Mot de passe",
+	"MAIN_ERROR": "Erreur",
+	"MAIN_NO_SCRIPT": "Votre navigateur ne supporte pas JavaScript ou il est désactivé. Veuillez activer JavaScript pour utiliser ce site.",
+	"MAIN_BACK": "Retour",
+	"MAIN_NEXT_STEP": "Étape suivante",
+	"MAIN_ELECTION": "Election",
+	"MAIN_VOTE": "Voter !",
+	"MAIN_FINISH": "Terminé",
+	"MAIN_REFRESH": "Actualiser",
+
+	"NAVBAR_HOME": "Accueil",
+	"NAVBAR_DASHBOARD": "Tableau de bord",
+	"NAVBAR_LOGIN": "Connexion",
+	"NAVBAR_REGISTER": "Créer un compte",
+	"NAVBAR_GROUP": "Ma classe",
+	"NAVBAR_DISCONNECT": "Déconnexion",
+	"NAVBAR_SEARCH": "Rechercher",
+
+	"LOGIN_TITLE": "Connexion",
+	"LOGIN_SUBMIT": "Se connecter",
+	"LOGIN_WRONG_CREDENTIALS": "Identifiant ou mot de passe invalide.",
+
+	"REGISTER_TITLE": "Créer un compte",
+	"REGISTER_PASSWORD_CONFIRM": "Confirmer le mot de passe",
+	"REGISTER_SUBMIT": "Créer le compte",
+	"REGISTER_UNIDENTICAL_PASSWORD": "Les mots de passe saisis ne correspondent pas.",
+	"REGISTER_ALREADY_EXIST": "Le compte \"$[identifiant]\" existe déjà.",
+
+	"DASHBOARD_TITLE": "Tableau de bord",
+	"DASHBOARD_NO_ELECTION": "Aucune élection pour le groupe",
+	"DASHBOARD_CREATE_ELECTION": "Créer une élection",
+	"DASHBOARD_FINISH_ELECTION": "Terminer l'élection",
+	"DASHBOARD_FINISHED_ELECTION": "Election terminée.",
+	"DASHBOARD_ADD_GROUP": "Ajouter un groupe",
+	"DASHBOARD_ADD_STUDENT": "Ajouter un elèves",
+
+	"ELECTION_FIRST_ROUND": "Premier tour",
+	"ELECTION_SECOND_ROUND": "Second tour",
+	"ELECTION_NO_ELECTION": "Aucune élection commencée.",
+
+	"FOOTER_MESSAGE": "Développé avec 🧡 par",
+
+	"ERROR_SERVER": "Erreur serveur.",
+	"ERROR_DATABASE": "Erreur de base de donnée.",
+	"ERROR_404": "Page inconnue.",
+	"ERROR_403": "Accès non autorisé."
+}

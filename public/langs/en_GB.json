@@ -1,0 +1,52 @@
+{
+	"MAIN_LANG": "en",
+	"MAIN_NAME": "Name",
+	"MAIN_SURNAME": "Surname",
+	"MAIN_OBJECT_NAME": "Name",
+	"MAIN_IDENTIFIANT": "Identifiant",
+	"MAIN_PASSWORD": "Password",
+	"MAIN_ERROR": "Error",
+	"MAIN_NO_SCRIPT": "Your browser does not support JavaScript or it is disabled. Please enable JavaScript to use this site.",
+	"MAIN_BACK": "Back",
+	"MAIN_NEXT_STEP": "Next step",
+	"MAIN_ELECTION": "Election",
+	"MAIN_VOTE": "Vote!",
+	"MAIN_FINISH": "Finish",
+	"MAIN_REFRESH": "Refresh",
+
+	"NAVBAR_HOME": "Home",
+	"NAVBAR_DASHBOARD": "Dashboard",
+	"NAVBAR_LOGIN": "Login",
+	"NAVBAR_REGISTER": "Create account",
+	"NAVBAR_DISCONNECT": "Logout",
+	"NAVBAR_GROUP": "My group",
+	"NAVBAR_SEARCH": "Search",
+
+	"LOGIN_TITLE": "Login",
+	"LOGIN_SUBMIT": "Login",
+	"LOGIN_WRONG_CREDENTIALS": "Incorrect identifiant or password.",
+
+	"REGISTER_PASSWORD_CONFIRM": "Confirm password",
+	"REGISTER_SUBMIT": "Create account",
+	"REGISTER_UNIDENTICAL_PASSWORD": "The passwords you entered do not match.",
+	"REGISTER_ALREADY_EXIST": "Account \"$[identifiant]\" already exist.",
+
+	"DASHBOARD_TITLE": "Dashboard",
+	"DASHBOARD_NO_ELECTION": "No election for the group",
+	"DASHBOARD_CREATE_ELECTION": "Create election",
+	"DASHBOARD_FINISH_ELECTION": "Finish election",
+	"DASHBOARD_FINISHED_ELECTION": "Election finished.",
+	"DASHBOARD_ADD_GROUP": "Add group",
+	"DASHBOARD_ADD_STUDENT": "Add student",
+
+	"ELECTION_FIRST_ROUND": "First round",
+	"ELECTION_SECOND_ROUND": "Second round",
+	"ELECTION_NO_ELECTION": "No election started.",
+
+	"FOOTER_MESSAGE": "Developed with 🧡 by",
+
+	"ERROR_SERVER": "Server error.",
+	"ERROR_DATABASE": "Database error.",
+	"ERROR_404": "Unknown pages.",
+	"ERROR_403": "Unauthorised access."
+}
