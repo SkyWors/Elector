@@ -1,3 +1,7 @@
+.vscode
+.idea
+
 vendor
 .env
-log
+logs/*
+!.gitkeep
